@@ -20,9 +20,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>EXEMPLO DE HTML SIMPLES</h1>
+        <h1>HTML SIMPLES</h1>
         <p>Esta é uma página HTML simples.</p>
     </div>
-	
 </body>
 </html>
