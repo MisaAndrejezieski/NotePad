@@ -21,6 +21,17 @@
 ## Instalação do módulo venv:
 pip install virtualenv
 
-##Criação de um ambiente virtual:
+## Criação de um ambiente virtual:
 python -m venv /caminho/para/novo/ambiente/virtual
+ou
+python -m venv venv_name
+
+## Ativação do ambiente virtual:
+venv_name\Scripts\activate.bat
+ou se estiver utilizando o PowerShell:
+.\venv\Scripts\activate.ps1
+
+## Desativação do ambiente virtual:
+deactivate
+
 
