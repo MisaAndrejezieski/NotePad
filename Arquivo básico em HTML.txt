@@ -52,7 +52,7 @@
 </head>
 <body>
     <h1>HTML e CSS simples</h1>
-    <p>Esta é uma página HTML simples.</p>
+    <p>Esta é uma página HTML e CSS simples.</p>
 </body>
 </html>
 
