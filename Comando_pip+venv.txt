@@ -22,13 +22,5 @@
 pip install virtualenv
 
 
-## Para criar ambiente virtual:
-python -m venv nome_do_ambiente
 
-
-## Para ativar ambiente virtual:
-nome_do_ambiente\Scripts\activate.bat ( no windows )
-
-## Para desativar ambiente virtual:
-deactivate
 
