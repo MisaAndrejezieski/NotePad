@@ -2181,8 +2181,11 @@ html.touch .links a.tap {
       background-image: url(../../graphics/awwwards_sotd_green_left2x.png); }
     #awwwards a.right.green a {
       background-image: url(../../graphics/awwwards_sotd_green_right2x.png); } }
-
     </style>
+	<script>
+	
+	</script>
+	
 </head>
 <body>
     <h1>HTML e CSS simples</h1>
