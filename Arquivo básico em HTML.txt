@@ -51,7 +51,7 @@
     </style>
 </head>
 <body>
-    <h1>Olá, Mundo!</h1>
+    <h1>HTML e CSS simples</h1>
     <p>Esta é uma página HTML simples.</p>
 </body>
 </html>
