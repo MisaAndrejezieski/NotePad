@@ -1,0 +1,26 @@
+# Comandos comuns em CMD:
+
+- cd: Este comando é usado para mudar o diretório atual em que você está trabalhando no prompt de comando.
+- dir: Este comando é usado para listar os arquivos e subdiretórios em um diretório.
+- cls: Este comando é usado para limpar a tela no prompt de comando.
+- copy: Este comando é usado para copiar arquivos de um local para outro.
+- del: Este comando é usado para excluir um ou mais arquivos.
+- move: Este comando é usado para mover arquivos de um local para outro.
+- rename: Este comando é usado para renomear um único arquivo.
+- exit: Este comando é usado para fechar a janela do prompt de comando.
+
+- Append: Este comando pode ser usado por programas para abrir arquivos em outro diretório como se estivessem localizados no diretório atual.
+- Arp: O comando arp é usado para exibir ou alterar entradas no cache ARP.
+- Assoc: O comando assoc é usado para exibir ou alterar o tipo de arquivo associado a uma determinada extensão de arquivo.
+- At: O comando at é usado para agendar comandos e outros programas para serem executados em uma data e hora específicas.
+- Attrib: O comando attrib é usado para alterar os atributos de um único arquivo ou diretório1.
+- Sfc: Este comando é usado para identificar possíveis erros do Windows.
+- Robocopy: Este comando é útil para economizar tempo ao realizar o backup sem precisar instalar um programa para isso.
+
+find: Este comando é usado para procurar uma string específica em um arquivo ou arquivos.
+type: Este comando é usado para exibir o conteúdo de um arquivo.
+more: Este comando é usado para exibir o conteúdo de um arquivo ou a saída de um comando, uma página de cada vez.
+net: Este comando é usado para exibir, configurar e corrigir configurações de rede no computador.
+systeminfo: Este comando é usado para exibir informações detalhadas sobre o hardware e software do computador.
+tasklist: Este comando é usado para exibir todas as tarefas em execução no momento.
+taskkill: Este comando é usado para terminar uma tarefa em execução.
