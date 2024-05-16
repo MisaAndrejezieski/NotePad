@@ -21,6 +21,6 @@
 ## Instalação do módulo venv:
 pip install virtualenv
 
-
-
+##Criação de um ambiente virtual:
+python -m venv /caminho/para/novo/ambiente/virtual
 
