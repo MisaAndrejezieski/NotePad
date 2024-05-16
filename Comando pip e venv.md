@@ -1,5 +1,3 @@
-# == Programação ==
-
 # Comandos pip para python:
 
 . Instalar um pacote: pip install nome_do_pacote
