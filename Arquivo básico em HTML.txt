@@ -20,8 +20,54 @@
 </head>
 <body>
     <div class="container">
-        <h1>Olá, Mundo!</h1>
+        <h1>EXEMPLO DE HTML SIMPLES</h1>
         <p>Esta é uma página HTML simples.</p>
     </div>
+	body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    padding: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #007BFF;
+    margin-top: 24px;
+}
+
+h1 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: .3em;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 0 5px;
+}
+
+pre {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 10px;
+    overflow-x: auto;
+}
+
 </body>
 </html>
