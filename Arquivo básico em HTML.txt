@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Minha Página</title>
+    <title>Página de exemplo</title>
     <style>
         body {
             font-family: Arial, sans-serif;
