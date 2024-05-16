@@ -6,7 +6,7 @@
     <link rel="stylesheet" type="text/css" href="C:\Users\misae\OneDrive\Documentos\NotePad\style.css">
 </head>
 <body>
-    <h1>Olá, Mundo!</h1>
+    <h1>Olá, Mundo</h1>
     <p>Esta é uma página HTML simples.</p>
 
     <!-- Adicione seu JavaScript aqui -->
