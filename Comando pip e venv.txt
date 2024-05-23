@@ -1,4 +1,4 @@
-# Comandos pip para python:
+.venv# Comandos pip para python:
 
 - Instalar um pacote: pip install nome_do_pacote
 
@@ -27,9 +27,8 @@ ou
 python -m venv venv_name
 
 ## Ativação do ambiente virtual:
-venv_name\Scripts\activate.bat
-ou se estiver utilizando o PowerShell:
-.\venv\Scripts\activate.ps1
+.venv\Scripts\activate
+
 
 ## Desativação do ambiente virtual:
 deactivate
