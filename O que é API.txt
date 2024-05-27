@@ -1,3 +1,17 @@
 O que é API?
 
 API é a sigla para “Application Programming Interface”, que em português se traduz como "Interface de Programação de Aplicativos". Uma API permite que diferentes softwares se comuniquem e interajam entre si de maneira eficiente. Ela define os métodos que um aplicativo pode chamar, juntamente com os formatos de dados que ele deve usar. Em outras palavras, uma API é como um conjunto de regras que permite que um software “fale” com outro. Isso é extremamente útil para desenvolver aplicações que precisam se integrar com outras, seja para extrair dados, enviar informações ou executar operações.
+
+
+FastAPI
+
+FastAPI é um framework moderno, rápido e de alto desempenho para a construção de APIs com Python, baseado em dicas de tipo padrão do Python. Aqui estão algumas características-chave:
+
+Rápido: Tem um desempenho muito alto, comparável ao NodeJS e Go, graças ao Starlette e Pydantic. É um dos frameworks Python mais rápidos disponíveis.
+Fácil de codificar: Aumenta a velocidade de desenvolvimento de recursos em cerca de 200% a 300%.
+Menos bugs: Reduz cerca de 40% dos erros induzidos por humanos (desenvolvedor).
+Intuitivo: Ótimo suporte ao editor. Conclusão em todos os lugares. Menos tempo depurando.
+Fácil: Projetado para ser fácil de usar e aprender. Menos tempo lendo documentação.
+Robusto: Obtenha código pronto para produção. Com documentação interativa automática.
+Baseado em padrões: Baseado nos padrões abertos para APIs: OpenAPI (anteriormente conhecido como Swagger) e JSON Schema.
+FastAPI é adequado para a criação de interfaces de programação de aplicativos modernos usando Python 3.6 ou superior. Ele oferece uma documentação abrangente e suporta validação de dados personalizada, permitindo aos desenvolvedores construir APIs com menos bugs. Além disso, o FastAPI usa os padrões de documentação OpenAPI, permitindo que a documentação seja gerada dinamicamente.
