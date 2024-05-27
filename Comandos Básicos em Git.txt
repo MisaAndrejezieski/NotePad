@@ -1,0 +1,25 @@
+Comandos básicos do Git:
+
+git config: Este comando é fundamental para configurar sua identidade de usuário, inserindo informações como nome e email que serão empregadas em cada commit.
+$ git config –global user.name “Seu nome”
+$ git config –global user.email “Seu email”
+
+git init: Este comando é utilizado para criar um novo projeto de git.
+$ git init
+$ git init <O nome do seu repositório>
+
+git clone: Este comando cria uma cópia exata de um repositório já existente.
+git clone <URL do seu projeto>
+
+git add: Este comando adiciona os arquivos especificados de código ao seu repositório.
+$ git add seu_arquivo
+$ git add *
+
+git commit: Este comando salva as alterações no repositório.
+$ git commit -m "Sua mensagem de commit"
+
+git push: Este comando envia as alterações para um repositório remoto.
+$ git push origin <nome_da_branch>
+
+git pull: Este comando baixa as alterações de um repositório remoto.
+$ git pull origin <nome_da_branch>
