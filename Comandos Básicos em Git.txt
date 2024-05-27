@@ -1,3 +1,11 @@
+Git é um sistema de controle de versão open source muito utilizado no mundo do desenvolvimento de software. Foi desenvolvido em 2005 por Linus Torvalds, o criador do kernel do Linux.
+
+O Git é uma ferramenta que ajuda as equipes a gerenciar alterações em código fonte ao longo do tempo. Ele mantém um registro de todas as versões do código, ou seja, de todas as modificações. Isso ajuda o desenvolvedor a conseguir voltar para qualquer versão anterior ou compará-las, ajudando a descobrir e corrigir erros muito mais rápido.
+
+Além disso, o Git é um exemplo de um Sistema de Controle de Versão Distribuído (DVCS). Isso significa que cada cópia de trabalho do código de um desenvolvedor também é um repositório que pode conter o histórico completo de todas as alterações.
+
+O Git foi projetado com desempenho, segurança e flexibilidade em mente. Ele é usado para controlar o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software. Ele permite mais flexibilidade no fluxo de trabalho, segurança e desempenho.
+
 Comandos básicos do Git:
 
 git config: Este comando é fundamental para configurar sua identidade de usuário, inserindo informações como nome e email que serão empregadas em cada commit.
