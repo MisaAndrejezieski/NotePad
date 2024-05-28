@@ -9,5 +9,6 @@
 ## Autenticação e Autorização: Python oferece várias bibliotecas, como o OAuthlib, para implementar autenticação e autorização em suas APIs. Isso permite que você controle quem tem acesso a quais recursos em sua API.
 
 ## Teste: Python tem várias bibliotecas de teste, como pytest e unittest, que você pode usar para escrever testes para sua API. Isso ajuda a garantir que sua API esteja funcionando corretamente.
-Documentação: Bibliotecas como Sphinx e Swagger podem ser usadas para gerar automaticamente a documentação da API a partir do seu código Python. Isso facilita para outros desenvolvedores entenderem e usarem sua API.
+
+## Documentação: Bibliotecas como Sphinx e Swagger podem ser usadas para gerar automaticamente a documentação da API a partir do seu código Python. Isso facilita para outros desenvolvedores entenderem e usarem sua API.
 ORMs: Python tem vários ORMs (Object-Relational Mappers) como SQLAlchemy e Django ORM que permitem interagir com seu banco de dados como se fossem objetos Python. Isso pode simplificar muito o desenvolvimento da API.
