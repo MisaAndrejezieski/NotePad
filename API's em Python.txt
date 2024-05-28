@@ -5,7 +5,8 @@
 ## Flask e Django: Estes são dois frameworks web em Python que são amplamente utilizados para criar APIs. O Flask é um microframework que é fácil de aprender e usar, enquanto o Django é um framework mais robusto que vem com muitas funcionalidades embutidas.
 
 ## REST e GraphQL: Python suporta tanto APIs REST quanto GraphQL. APIs REST são baseadas em HTTP e usam diferentes métodos HTTP para operações CRUD (Criar, Ler, Atualizar, Deletar). Por outro lado, GraphQL é uma linguagem de consulta para APIs que permite aos clientes especificar exatamente quais dados eles precisam.
-Autenticação e Autorização: Python oferece várias bibliotecas, como o OAuthlib, para implementar autenticação e autorização em suas APIs. Isso permite que você controle quem tem acesso a quais recursos em sua API.
+
+## Autenticação e Autorização: Python oferece várias bibliotecas, como o OAuthlib, para implementar autenticação e autorização em suas APIs. Isso permite que você controle quem tem acesso a quais recursos em sua API.
 Teste: Python tem várias bibliotecas de teste, como pytest e unittest, que você pode usar para escrever testes para sua API. Isso ajuda a garantir que sua API esteja funcionando corretamente.
 Documentação: Bibliotecas como Sphinx e Swagger podem ser usadas para gerar automaticamente a documentação da API a partir do seu código Python. Isso facilita para outros desenvolvedores entenderem e usarem sua API.
 ORMs: Python tem vários ORMs (Object-Relational Mappers) como SQLAlchemy e Django ORM que permitem interagir com seu banco de dados como se fossem objetos Python. Isso pode simplificar muito o desenvolvimento da API.
