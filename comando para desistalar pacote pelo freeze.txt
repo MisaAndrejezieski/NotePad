@@ -5,5 +5,5 @@ pip freeze | grep -v "^-e" | xargs pip uninstall -y
 pip freeze - lista todos os pacotes Python instalados.
 grep -v "^-e"  - filtra a lista para excluir pacotes instalados em modo editável (aqueles que começam com -e).
 xargs pip uninstall -y  - passa a lista filtrada de pacotes para o comando pip uninstall, que desinstala cada pacote. A opção -y confirma automaticamente a desinstalação para que você não seja solicitado a confirmar cada pacote individualmente.
-
+:smile
 
