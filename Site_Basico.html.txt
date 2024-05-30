@@ -6,8 +6,8 @@
     <link rel="stylesheet" type="text/css" href="C:\Users\misae\OneDrive\Documentos\NotePad\style.css">
 </head>
 <body>
-    <h1>Olá, Mundo</h1>
-    <p>Esta é uma página HTML simples.</p>
+    <h1>Como vai?</h1>
+    <p>Páginas simples</p>
 
     <!-- Adicione seu JavaScript aqui -->
     <script src="C:\Users\misae\OneDrive\Documentos\NotePad\script.js"></script>
