@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Minha Página</title>
+    <title>Misa</title>
     <!-- Adicione seu CSS aqui -->
     <link rel="stylesheet" type="text/css" href="C:\Users\misae\OneDrive\Documentos\NotePad\style.css">
 </head>
