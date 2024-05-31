@@ -1,4 +1,4 @@
-POO - 
+POO - Programação Orientada á Objetos
 
 A Programação Orientada a Objetos (POO) é um paradigma de programação que utiliza o conceito de “objetos” para representar dados e métodos. Em Python, a POO é uma abordagem que pode melhorar a qualidade e a eficiência do código.
 
