@@ -63,6 +63,7 @@ print(pessoa.apresentar())
 
 Neste exemplo, Pessoa é uma classe que representa uma pessoa genérica. A classe tem um método chamado apresentar que retorna uma apresentação da pessoa. pessoa é um objeto que é uma instância da classe Pessoa.
 
+======================================================
 atalhos mais úteis do Visual Studio Code (VSCode):
 
 Ctrl + Shift + P: Abre o painel de comando.
@@ -78,3 +79,4 @@ Ctrl + Shift + L: Seleciona todas as ocorrências da palavra selecionada.
 Ctrl + Shift + O: Ordena as linhas selecionadas em ordem crescente.
 Ctrl + Shift + F: Abre a ferramenta de busca global.
 Para ver todos os atalhos do VS Code, você pode acessar o menu “Ajuda”, ou “Help” na barra de menus superior e selecionar a opção “Atalhos de Teclado”, ou “Keyboard shortcuts”. Isso abrirá uma lista completa de atalhos disponíveis no software. Outra forma de ver os atalhos é através do comando Ctrl + K, Ctrl + S.
+
