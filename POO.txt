@@ -62,12 +62,3 @@ pessoa = Pessoa("João", 25)
 print(pessoa.apresentar())
 
 Neste exemplo, Pessoa é uma classe que representa uma pessoa genérica. A classe tem um método chamado apresentar que retorna uma apresentação da pessoa. pessoa é um objeto que é uma instância da classe Pessoa.
-
-Aqui estão algumas orientações sobre como você pode contribuir para um projeto no GitHub:
-
-Fork do Projeto: Primeiro, você precisa fazer um fork do projeto que deseja contribuir. Isso cria uma cópia do projeto em sua conta do GitHub.
-Criar um Branch: Em seguida, você deve criar um novo branch para suas alterações. Isso ajuda a separar suas alterações das do branch principal (geralmente chamado de “master” ou “main”).
-Fazer Commits: Depois de fazer suas alterações, você deve fazer commits para o seu branch. Cada commit deve ser uma mudança lógica e autônoma.
-Push para o GitHub: Quando estiver pronto, você deve fazer push do seu branch para o seu repositório no GitHub.
-Abrir um Pull Request: Finalmente, você pode abrir um Pull Request no repositório original para propor suas alterações.
-Se você não está vendo a opção “Issues”, pode ser que o proprietário do repositório tenha desativado essa funcionalidade. Nesse caso, você pode tentar entrar em contato com o proprietário do repositório ou contribuir de outra maneira, como melhorando a documentação ou o código.
