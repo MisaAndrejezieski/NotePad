@@ -1,0 +1,15 @@
+Redes Adversárias Generativas, também conhecidas como GANs (Generative Adversarial Networks), são uma classe de algoritmos de aprendizado de máquina usados em aprendizado não supervisionado. Elas foram introduzidas por Ian Goodfellow e outros pesquisadores da Universidade de Montreal em 2014.
+
+As GANs são compostas por duas partes principais:
+
+Gerador: Este é o “artista” que cria novas “obras de arte” (dados). Ele aprende a gerar dados falsos indistinguíveis dos reais.
+Discriminador: Este é o “crítico de arte” que avalia as “obras de arte” do Gerador. Ele aprende a distinguir entre dados reais e falsos.
+O Gerador e o Discriminador são treinados simultaneamente em um jogo de soma zero, onde o objetivo do Gerador é enganar o Discriminador e o objetivo do Discriminador é não ser enganado pelo Gerador.
+
+Aqui estão algumas aplicações das GANs:
+
+Geração de Imagens: As GANs podem ser usadas para gerar imagens realistas. Por exemplo, elas podem criar rostos de pessoas que não existem.
+Transferência de Estilo: As GANs podem aprender o estilo de uma imagem e aplicá-lo a outra. Isso é útil em aplicações de edição de fotos.
+Melhoria de Imagens: As GANs podem ser usadas para melhorar a qualidade de imagens de baixa resolução, um processo conhecido como super-resolução.
+Simulação de Dados: As GANs podem ser usadas para simular dados realistas para treinamento de outros modelos de aprendizado de máquina.
+Anonimização de Dados: As GANs podem gerar dados sintéticos que mantêm as propriedades estatísticas dos dados originais, mas não contêm informações identificáveis, útil para proteger a privacidade.
