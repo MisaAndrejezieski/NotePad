@@ -1,0 +1,10 @@
+Existem várias maneiras de otimizar o desempenho do Windows 11 e torná-lo mais rápido. Aqui estão algumas dicas que podem ajudar:
+
+Mantenha o Windows 11 atualizado: É importante que o sistema operacional esteja sempre com as atualizações mais recentes1.
+Desative a inicialização automática de programas: Quando instalamos alguns programas, é comum existir a opção “iniciar junto com o sistema operacional”. No entanto, muitos apps iniciando com o boot do Windows 11 podem fazer com que a inicialização completa do seu PC demore mais.
+Desinstale softwares e apps que não utiliza: Todo software, aplicativo e arquivo que está no nosso PC ou no driver de armazenamento ocupa espaço. Com o tempo, esse armazenamento livre vai acabando e pode deixar seu PC lento.
+Ajuste o plano de energia para alto desempenho: Isso pode melhorar o desempenho do seu PC.
+Desative os efeitos visuais: Isso pode melhorar o desempenho do seu PC.
+Limpe os arquivos temporários do Windows: Isso pode liberar espaço no seu disco rígido e melhorar o desempenho do seu PC.
+Use o Storage Sense para liberar espaço: O Windows 11 possui uma ferramenta interna para ajudar a fazer essa limpeza.
+Lembre-se, é sempre uma boa ideia fazer um backup dos seus dados antes de fazer qualquer alteração significativa no seu sistema. Espero que essas dicas ajudem a melhorar o desempenho do seu Windows 11! 
