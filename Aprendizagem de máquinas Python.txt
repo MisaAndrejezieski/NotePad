@@ -10,6 +10,4 @@ Como começar com Aprendizado de Máquina em Python?
 Para começar com o aprendizado de máquina em Python, você precisará de um entendimento sólido dos fundamentos do Python. Isso inclui compreender as estruturas de dados do Python, como listas e dicionários, bem como o controle de fluxo, como loops e condicionais.
 
 Depois de ter uma base sólida em Python, você pode começar a explorar as bibliotecas de aprendizado de máquina. Recomendo começar com o Scikit-learn, pois é uma biblioteca de aprendizado de máquina de propósito geral que é fácil de aprender e usar, mas ainda é poderosa o suficiente para atender às necessidades de muitos projetos de aprendizado de máquina.
-
-Conclusão
-O aprendizado de máquina é um campo fascinante e Python é a ferramenta perfeita para explorá-lo. Se você é um programador Python procurando expandir seus horizontes, o aprendizado de máquina oferece uma infinidade de oportunidades para aprender e crescer. Então, por que não começar sua jornada de aprendizado de máquina hoje? Espero que este artigo tenha lhe dado uma visão mais clara e explicativa sobre o assunto.
+O aprendizado de máquina é um campo fascinante e Python é a ferramenta perfeita para explorá-lo. Se você é um programador Python procurando expandir seus horizontes, o aprendizado de máquina oferece uma infinidade de oportunidades para aprender e crescer.
