@@ -1,13 +1,9 @@
 O que é Aprendizado de Máquina?
 O aprendizado de máquina é uma subárea da inteligência artificial que se concentra na construção de sistemas que aprendem ou melhoram o desempenho com base em dados. Em outras palavras, em vez de programar explicitamente um sistema para realizar uma tarefa, nós o alimentamos com dados e algoritmos que permitem que ele aprenda a realizar a tarefa por si mesmo.
-
 Por que Python é popular para Aprendizado de Máquina?
 Python é uma linguagem de programação de alto nível conhecida por sua clareza sintática. Isso torna o código Python fácil de ler e escrever, o que é especialmente útil quando se trabalha com algoritmos complexos de aprendizado de máquina.
-
 Além disso, Python tem um ecossistema robusto de bibliotecas e frameworks de aprendizado de máquina, como Scikit-learn, TensorFlow e PyTorch. Essas bibliotecas fornecem implementações eficientes de uma ampla gama de algoritmos de aprendizado de máquina, facilitando a aplicação desses algoritmos aos seus dados.
-
 Como começar com Aprendizado de Máquina em Python?
 Para começar com o aprendizado de máquina em Python, você precisará de um entendimento sólido dos fundamentos do Python. Isso inclui compreender as estruturas de dados do Python, como listas e dicionários, bem como o controle de fluxo, como loops e condicionais.
-
 Depois de ter uma base sólida em Python, você pode começar a explorar as bibliotecas de aprendizado de máquina. Recomendo começar com o Scikit-learn, pois é uma biblioteca de aprendizado de máquina de propósito geral que é fácil de aprender e usar, mas ainda é poderosa o suficiente para atender às necessidades de muitos projetos de aprendizado de máquina.
 O aprendizado de máquina é um campo fascinante e Python é a ferramenta perfeita para explorá-lo. Se você é um programador Python procurando expandir seus horizontes, o aprendizado de máquina oferece uma infinidade de oportunidades para aprender e crescer.
