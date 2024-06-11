@@ -1,1 +1,42 @@
+--- Pedi para o ChatGPT me explicar o código: 
 
+class Meta(type):
+
+  def __new__(cls, nome, bases, dct):
+
+    dct['nova_funcao'] = lambda self: print("Nova função adicionada")
+
+    return super().__new__(cls, nome, bases, dct)
+
+
+
+class MinhaClasse(metaclass=Meta):
+
+  pass
+
+
+
+instancia = MinhaClasse()
+
+instancia.nova_funcao() # Saída: Nova função adicionada
+
+--- Olha só a resposta: 
+
+Definição da Classe Meta:
+
+class Meta(type):: Aqui estamos definindo uma nova classe chamada Meta, que é uma classe metaclasses. Uma classe metaclasses é uma classe cujas instâncias são classes.
+def __new__(cls, nome, bases, dct):: Este é o método especial __new__ que é chamado quando uma nova instância da classe é criada. Ele recebe quatro parâmetros:
+cls: A própria classe, no caso, a classe Meta.
+nome: O nome da nova classe que está sendo criada.
+bases: As classes base da nova classe (uma tupla).
+dct: O dicionário de atributos da nova classe.
+dct['nova_funcao'] = lambda self: print("Nova função adicionada"): Aqui estamos adicionando uma nova função chamada nova_funcao ao dicionário de atributos da nova classe. Esta função é definida como uma expressão lambda que imprime "Nova função adicionada" quando chamada.
+return super().__new__(cls, nome, bases, dct): Chamamos o método __new__ da classe pai (type) passando os parâmetros recebidos. Isso é necessário para que a criação da nova classe seja realizada corretamente.
+Definição da Classe MinhaClasse com a Metaclasse Meta:
+
+class MinhaClasse(metaclass=Meta):: Aqui estamos definindo uma nova classe chamada MinhaClasse e especificando Meta como sua metaclasses. Isso significa que a classe Meta será usada como metaclasses para a classe MinhaClasse.
+Criação de uma Instância de MinhaClasse e Chamada de sua Função:
+
+instancia = MinhaClasse(): Aqui estamos criando uma instância da classe MinhaClasse.
+instancia.nova_funcao(): Estamos chamando o método nova_funcao() da instância instancia. Como a classe MinhaClasse foi definida com a metaclasses Meta, ela herda a função nova_funcao() definida na classe Meta. Portanto, ao chamar nova_funcao(), ele imprime "Nova função adicionada".
+Em resumo, o código demonstra como adicionar dinamicamente uma nova função a uma classe usando metaclasses em Python. Isso permite estender o comportamento das classes em tempo de execução de uma maneira poderosa e flexível.
