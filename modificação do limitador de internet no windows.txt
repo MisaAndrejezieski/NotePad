@@ -1,0 +1,16 @@
+Como modificar a largura de banda de internet no Windows 10
+ 
+
+Siga os passos abaixo:
+
+ 
+
+Na barra de pesquisa do Windows 10 escrevemos “gpedit.msc” (sem aspas) e escolhemos a primeira opção (ícone de rolagem).
+Agora uma caixa de diálogo chamada “Editor de política de grupo local” é aberta.
+No lado esquerdo, encontramos “Configuração do computador” e depois “Modelos administrativos”.
+Dentro deste último encontramos a opção “Rede” e à direita procuramos “Agendador de pacotes QoS e clique duas vezes.
+Agora outro menu se abre com outras opções e escolhemos “Limitar largura de banda reservável”.
+Vemos que uma nova caixa de diálogo se abre, porque aqui devemos ativar a caixa “Ativado” e definir o limite de banda%. Neste caso, deixe em 0, para que não haja limites e clique em “Aplicar”.
+ 
+
+Por fim, reforçamos que essa é uma modificação que só deve ser feita se for estritamente necessária. Para a maioria dos usuários que só quer navegar na internet, visitar redes sociais, ler e-mails e outras atividades banais, não há motivos para mudar qualquer configuração no registro do Windows 10.
