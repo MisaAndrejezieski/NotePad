@@ -1,0 +1,29 @@
+[
+	{
+		"nome": "Renato Daniel da Cunha",
+		"idade": 24,
+		"cpf": "02151436985",
+		"rg": "255664059",
+		"data_nasc": "18/02/2000",
+		"sexo": "Masculino",
+		"signo": "Aquário",
+		"mae": "Maria Ester Analu",
+		"pai": "Marcos Vinicius Carlos da Cunha",
+		"gmail": "renatodanieldacunha",
+		"email": "renato.daniel.dacunha@etep.edu.br",
+		"senha": "ADRGkEkC0n",
+		"cep": "84026512",
+		"endereco": "Rua Santa Bárbara",
+		"numero": 899,
+		"bairro": "Olarias",
+		"cidade": "Ponta Grossa",
+		"estado": "PR",
+		"telefone_fixo": "4235706271",
+		"celular": "42989882731",
+		"altura": "1,73",
+		"peso": 60,
+		"tipo_sanguineo": "A-",
+		"cor": "negro",
+		"Senha": "Sakura951"
+	}
+]
